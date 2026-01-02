@@ -2,8 +2,8 @@
 
 I like to build scalable edge-cloud systems, working with Kubernetes, using Go, Python, Java and AI.
 
-🔭 Currently exploring: MLOps and edge computing  
-💬 Open to collaborate on cloud-native projects  
+🔭 Currently working on: MLOps and Edge-Cloud Architecture  
+💬 Open to collaborate on cloud-native projects 
 
 <!--
 
